@@ -1,6 +1,6 @@
 #1. Create a greeting for your program.
 print('''Hi and welome to the Band Name generator.
-This program will generator the name of your band.
+This program will generate the name of your band.
 Please enter in the following information to generate your band name.
             ROCK ON!!!\n''')
 #2. Ask the user for the city that they grew up in.
